@@ -1,1 +1,3 @@
-# Sign-Language-MNIST-ML
+# Sign Language MNIST CNN Model
+
+🚧 Under Construction.
